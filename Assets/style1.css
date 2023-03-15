@@ -16,13 +16,13 @@ nav {
     width: 100%;
 }
 label.logo{
-    color: #ffffaa;
+    color: #FFFFF0;
     line-height: 80px;
     padding: 0 100px;
     font-weight: bold;
 }
 h1 {
-    color: aqua;
+    color: rgb(0, 255, 255);
 }
 .nav-bar ul{
     float: right;
